@@ -1,0 +1,22 @@
+// google web font: Nanum Gothic
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400,700');
+
+// material icon font
+// https://material.io/icons
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;   // 16px의 62.5% => 10px = 1rem
+}
+
+body {
+    padding: 3rem;
+    font-family: 'Nanum Gothic', sans-serif;
+}
